@@ -8,7 +8,7 @@ A repository of cloud architectures for education and illistration purposes. Mos
 ---
 
 ## 1. [Basic IaaS Architecture](basic-iaas-architecture)
-![Basic IaaS Setup](./designs/1.0_basic_iaas_example.png)
+![Basic IaaS Setup](./designs/1.0_basic_iaas_example.svg)
 This is an example architecture for the most basic Infrastructre as a service offerning in Azure. It's really here for illistration pupropses and I would really really not recommend this setup for a production system.
 
 
