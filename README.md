@@ -1,11 +1,17 @@
 # cloud_architectures
-A repo of example cloud architecture designs
+A repository of cloud architectures for education and illistration purposes. Most of the examples will be based on Azure technoloties. This will continue to grow over time so keep an eye on this space for more.
 
-1. Basic IaaS Architecture
+---
 
+1. [Basic IaaS Architecture](basic-iaas-architecture)
 
-## 1. Basic IaaS Architecture
+---
+
+## 1. [Basic IaaS Architecture](basic-iaas-architecture)
 ![Basic IaaS Setup](./designs/1.0_basic_iaas_example.png)
+This is an example architecture for the most basic Infrastructre as a service offerning in Azure. It's really here for illistration pupropses and I would really really not recommend this setup for a production system.
+
+
 Pros
 * Very simple setup
 * Cheap option relative to other Paas Offering.
