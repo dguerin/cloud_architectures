@@ -17,7 +17,7 @@ Pros
 * Cheap option relative to other Paas Offering.
 
 Cons
-* Lost to manage yourself - ie updates
-* No high avability - in the case of failure of the db or the vm.
+* Lots to manage yourself - ie updates of the vm and db
+* No high avability - in the case of failure of the db or the vm there is no other hot system to take over the workload, thus your system is not available to your users.
 * Azure will force at times updates of the VM - your site will be down.
 * Does not scale - when you get more traffic than you can handle in the db or vm your appliation will fail.
